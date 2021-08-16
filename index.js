@@ -38,7 +38,7 @@ var userName = ""
    var score = 0 ;
 
  function  check(ans, n){
-   if(ans === questions[n].answer){
+   if(ans.toUpperCase() === questions[n].answer.toUpperCase()){
      console.log(chalk.green.bold("Correct!"));
      score++;
    } else {
