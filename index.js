@@ -7,12 +7,12 @@ var userName = ""
  const questions  = [
    {
      question : "On which date we got Independence form British ",
-     answer : "15 aug 1947",
+     answer : "15aug1947",
    },{
    question : "How many year Britishers ruled India ?",
    answer : "200"},{
    question : "Who designed the national flag of India?",
-   answer : "Pingali Venkayya",},{
+   answer : "Pingali Venkaya",},{
      question : "In which year did the Quit India Movement begin?",
      answer : "1942",
    },{
@@ -26,10 +26,10 @@ var userName = ""
      answer : "565",
    },{
      question : "What is the theme for Independence Day celebrations 2021?",
-     answer : "Nation First, Always First",
+     answer : "Nation First Always First",
    },{
      question : "On Independence Day, the Prime Minister of India hoists our tricolour flag at:",
-     answer : "the Red Fort, Old Delhi",
+     answer : "the Red Fort",
    },{
      question : "Which of the following Plan was known as the partition plan?",
      answer : "Mountbatten Plan",
