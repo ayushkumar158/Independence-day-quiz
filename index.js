@@ -10,7 +10,7 @@ var userName = ""
      answer : "15 aug 1947",
    },{
    question : "How many year Britishers ruled India ?",
-   answer : "200 years"},{
+   answer : "200"},{
    question : "Who designed the national flag of India?",
    answer : "Pingali Venkayya",},{
      question : "In which year did the Quit India Movement begin?",
