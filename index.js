@@ -43,7 +43,7 @@ var userName = ""
      score++;
    } else {
      console.log(
-       chalk.green.bold("Incorrect!") + " " + chalk.underline("Correct answer is : " + questions[n].answer)
+       chalk.red.bold("Incorrect!") + " " + chalk.underline("Correct answer is : " + questions[n].answer)
      );
      score--;
    } 
