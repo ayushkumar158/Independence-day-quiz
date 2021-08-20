@@ -12,12 +12,9 @@ var userName = ""
    question : "How many year Britishers ruled India ?",
    answer : "200"},{
    question : "Who designed the national flag of India?",
-   answer : "Pingali Venkaya",},{
+   answer : "pingali venkaya",},{
      question : "In which year did the Quit India Movement begin?",
      answer : "1942",
-   },{
-         question : "Mahatma Gandhi was sent to which jail for Champaran Satyagraha?",
-         answer : "Sabarmati Central Jail",
    },{
      question : "What is the official approx. duration of the Indian National Anthem?",
      answer :  "52 seconds",
@@ -26,13 +23,10 @@ var userName = ""
      answer : "565",
    },{
      question : "What is the theme for Independence Day celebrations 2021?",
-     answer : "Nation First Always First",
+     answer : "nation first always first",
    },{
      question : "On Independence Day, the Prime Minister of India hoists our tricolour flag at:",
-     answer : "the Red Fort",
-   },{
-     question : "Which of the following Plan was known as the partition plan?",
-     answer : "Mountbatten Plan",
+     answer : "red fort",
    },
  ];
    var score = 0 ;
@@ -45,7 +39,7 @@ var userName = ""
      console.log(
        chalk.red.bold("Incorrect!") + " " + chalk.underline("Correct answer is : " + questions[n].answer)
      );
-     score--;
+     score;
    } 
    console.log("New Score is " + score );
  }
